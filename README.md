@@ -18,7 +18,7 @@ Portfólio feito com muita dedicação ⚡ <br/>
 <br>
 
 <p align="center">
-  <img alt="https://im5.ezgif.com/tmp/ezgif-5-db2778ff54.gif" width="100%">
+  <img alt="![ezgif-5-db2778ff54](https://user-images.githubusercontent.com/121032713/229139793-264bf974-dcc4-4bf3-8625-3bf6ef2dd73a.gif)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
