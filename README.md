@@ -18,7 +18,7 @@ Portfólio feito com muita dedicação ⚡ <br/>
 <br>
 
 <p align="center">
-  <img alt="![ezgif-5-db2778ff54](https://user-images.githubusercontent.com/121032713/229139793-264bf974-dcc4-4bf3-8625-3bf6ef2dd73a.gif)" width="100%">
+<img alt="MeuPortfolio" src="https://uploaddeimagens.com.br/images/004/413/478/original/Captura_de_Tela_%28166%29.png?1680271214" width="100%">
 </p>
 
 ## 🚀 Tecnologias
